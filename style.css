@@ -1,0 +1,102 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    width: 100%;
+}
+
+header{
+    height: 60px;
+    background-color: #2874f0;
+    color:white;
+    padding: 0 140px;
+}
+
+.searchbar{
+    display:inline-block;
+}
+.sym{
+    display:inline-block;
+}
+.text{
+    height: 32px;
+    width: 550px;
+    border: none;
+    display:inline-block;
+   padding: 0 50px;
+}
+
+#a{
+    width: 140px;
+}
+#log{
+    height: 32px;
+    width: 100px;
+   background-color: white;
+   color: #2874f0;
+   border: none;
+   text-align: center;
+   margin: 0 70px;
+}
+
+#more{
+   background-color: #2874f0;
+   border: none;
+}
+
+.cart{
+    height: 28px;
+    width: 7%;
+    background-color: #2874f0;
+    color: white;
+    text-align: center;
+    display:inline-block;
+    cursor: pointer;
+}
+.cart a{
+    color: white;
+    text-decoration: none;
+}
+
+.seller{
+    margin: 0 20px;
+
+}
+
+.card-deck{
+    margin: 20px;
+}
+
+
+#last{
+    border: none;
+}
+
+
+#l{
+    height: 60px;
+    width: 50px;
+}
+#m{
+    height: 180px;
+
+}
+.card-body{
+    height: 15px;
+    text-align: justify;
+}
+.card-title{
+    margin: 25px;
+}
+.card-text{
+   padding:0 32px;
+}
+#q{
+    height: 400px;
+}
+
+.sym{
+    margin: 0 -30px;
+    color:#2874f0;
+}
